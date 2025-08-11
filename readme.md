@@ -50,31 +50,31 @@ This Excel project analyzes daily weather conditions for the year 2016, using Pi
 - Hottest day: August 12 (86°F).
 - July dominates the top hottest list with multiple entries above 83°F.
 
-![Top 5 hottest days](images/Top%205%20hottest%20days.png)
+![Top 5 hottest days](images/Top%205%20hottest%20days.JPG)
 
 ### 4. Top 5 Coldest Days
 - Coldest day: February 14 (0°F), extreme winter low.
 - Winter months (January, February, December) dominate the coldest list.
 
-![Top 5 coldest days](images/Top%205%20coldest%20days.png)
+![Top 5 coldest days](images/Top%205%20coldest%20days.JPG)
 
 ### 5. Wettest and Driest Months
 - Wettest month: October with 5.46 inches of precipitation.
 - Driest month: July with only 0.87 inches.
 
-![Wettest & Driest Months](images/Wettest%20&%20Driest%20Months.png)
+![Wettest & Driest Months](images/Wettest%20&%20Driest%20Months.JPG)
 
 ### 6. Windiest Months
 - Strongest winds: February (31.82 MPH) and March (31.28 MPH).
 - Calmest month: September (24.59 MPH).
 
-![Windiest Months](images/Windiest%20Months.png)
+![Windiest Months](images/Windiest%20Months.JPG)
 
 ### 7. Average Temperature by Weather Condition
 - Snow days are the coldest at 29.7°F.
 - Rainy days are slightly warmer at 56.1°F than clear days at 53.6°F.
 
-![Average Temperature by Weather Condition](images/Average%20Temperature%20by%20Weather%20Condition.png)
+![Average Temperature by Weather Condition](images/Average%20Temperature%20by%20Weather%20Condition.JPG)
 
 
 
